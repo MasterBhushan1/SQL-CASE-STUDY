@@ -1,6 +1,6 @@
 # Swiggy SQL Case Study
 
-![Swiggy Logo]([(https://logosmarken.com/wp-content/uploads/2020/11/Swiggy-Zeichen.png)](https://logosmarken.com/wp-content/uploads/2020/11/Swiggy-Zeichen.png))
+![Swiggy Logo](https://www.icoderzsolutions.com/blog/wp-content/uploads/2019/05/Swiggy.png)
 
 ## Introduction
 
